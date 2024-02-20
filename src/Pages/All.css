@@ -1,0 +1,123 @@
+/* navbar */
+
+
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+
+li{
+    float: left;
+    margin: 10px;
+    list-style-type: none;
+    font-size: 12px;
+}
+
+
+ul{
+    float: left;
+}
+
+li:hover{
+    border-bottom: 1px solid black;
+}
+
+.yuksel{
+    position: absolute;
+    margin-top: -490px;
+    color: white;
+    margin-left: 250px;
+}
+
+/* kutu 1 slider alt */
+
+.kutu1{
+    width: 100%;
+    height: 100px;
+}
+
+.kutu1ıc{
+    text-align: center;
+    margin-top: 35px;
+}
+
+
+.sol{
+    float: left;
+}
+
+.sag{
+    float: right;
+}
+
+
+.kutu6{
+    height: 500px;
+    width: 100%;
+    margin-top: 1910px;
+}
+
+/* kutu8 alt navbar1 */
+
+.kutu8{
+    width: 100%;
+    height: 70px;
+    background-color:white;
+    margin-top: 1330px;
+}
+
+.kutu8ıc{
+    padding-left: 100px;
+    display: flex;
+}
+
+.kutu9{
+    padding-left: 20px;
+    width: 100%;
+    height: 240px;
+    background-color: whitesmoke;
+}
+
+.kutu9ıc{
+    padding: 40px;
+}
+
+.kutu10{
+    width: 100%;
+    height: 70px;
+    background-color: whitesmoke;
+}
+
+.kutu10ıc{
+    padding-left: 90px;
+}
+
+.yesılbutton{
+    background-color: greenyellow;
+    width: 250px;
+    height: 50px;
+    border: 1px solid whitesmoke;
+}
+
+.cızgı:hover{
+    border-bottom:3px solid green;
+    cursor: pointer;
+}
+
+
+.logindıs{
+    width: 100%;
+    height: 800px;
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
